@@ -1,0 +1,13 @@
+﻿  Game.cpp
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(44): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(54): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(67): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(77): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(178): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(182): warning C4018: '<': signed/unsigned mismatch
+c:\users\sdsdasdqeqweöksjd1k2\documents\github\ebowla\tetris\tetris\game.cpp(186): warning C4018: '<': signed/unsigned mismatch
+  Generating Code...
+  Skipping... (no relevant changes detected)
+  Tetromino.cpp
+  Tetris.vcxproj -> C:\Users\sdsdasdqeqweöksjd1k2\Documents\GitHub\Ebowla\Tetris\Debug\Tetris.exe
